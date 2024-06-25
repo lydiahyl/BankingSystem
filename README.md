@@ -40,4 +40,4 @@ This Banking System Admin Interface is a robust application designed to manage c
 
 ### Perform Transaction
 - Allow customer to deposit, withdraw and transfer money to another account. 
-<img src="interface/Deposit.png" alt="Login Page" width="550"/>
+<img src="interface/Add.png" alt="Login Page" width="550"/>
