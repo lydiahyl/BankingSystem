@@ -4,21 +4,14 @@
 
 This Banking System Admin Interface is a robust application designed to manage customer accounts and perform various banking transactions. Developed using Apache NetBeans and object-oriented programming concepts, it provides administrators with the tools to efficiently handle account registrations, updates, and financial operations.
 
-## Features
+## Main Features
 
 - **Register New Account**
-  - Create new customer accounts with personal details.
 
 - **Edit Customer Account Details**
-  - Update existing customer information, including personal details and account settings.
 
 - **Perform Transactions**
-  - **Withdraw Money**
-    - Withdraw money from a customer's account.
-  - **Deposit Money**
-    - Add money to customer's account.
-  - **Transfer Money**
-    - Transfer money between the account. 
+
 
 ## Technologies Used
 
@@ -34,10 +27,16 @@ This Banking System Admin Interface is a robust application designed to manage c
 ![Login Page](interface/Login.png)
 
 ### Dashboard
+- Dashboard where admin can choose to create, edit or perform transaction for customer.
 ![Dashboard](interface/Dashboard.png)
 
 ### Create Account
 ![Create Account](interface/Create.png)
 
 ### Edit Details
+- All the details below are just a test user.  
 ![Edit Customer Details](interface/Edit.png)
+
+### Perform Transaction
+- Allow customer to deposit, withdraw and transfer money to another account. 
+![Transaction](interface/Deposit.png)
