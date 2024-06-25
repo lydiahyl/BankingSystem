@@ -24,20 +24,19 @@ This Banking System Admin Interface is a robust application designed to manage c
 ## Screenshots
 
 ### Login Page
-![Login Page](interface/Login.png)
-<img src="interface/Login.png" alt="Login Page" width="400"/>
+<img src="interface/Login.png" alt="Login Page" width="450" height="400"/>
 
 ### Dashboard
 - Dashboard where admin can choose to create, edit or perform transaction for customer.
-![Dashboard](interface/Dashboard.png)
+<img src="interface/Dashboard.png" alt="Login Page" width="550"/>
 
 ### Create Account
-![Create Account](interface/Create.png)
+<img src="interface/Create.png" alt="Login Page" width="550"/>
 
 ### Edit Details
 - All the details below are just a test user.  
-![Edit Customer Details](interface/Edit.png)
+<img src="interface/Edit.png" alt="Login Page" width="550"/>
 
 ### Perform Transaction
 - Allow customer to deposit, withdraw and transfer money to another account. 
-![Transaction](interface/Deposit.png)
+<img src="interface/Deposit.png" alt="Login Page" width="550"/>
