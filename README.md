@@ -27,10 +27,11 @@ This Banking System Admin Interface is a robust application designed to manage c
 <img src="interface/Login.png" alt="Login Page" width="450" height="400"/>
 
 ### Dashboard
-- Dashboard where admin can choose to create, edit or perform transaction for customer.
+- Dashboard where admin can choose to create, edit and perform transaction for customer.
 <img src="interface/Dashboard.png" alt="Login Page" width="550"/>
 
 ### Create Account
+- Create User by entering all the details shown below. 
 <img src="interface/Create.png" alt="Login Page" width="550"/>
 
 ### Edit Details
